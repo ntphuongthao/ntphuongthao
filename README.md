@@ -56,7 +56,7 @@ Here are some ideas to get you started: -->
 
 ## 📊 Most Used Language
 <br/>
-<img width='500' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntphuongthao">
+<img width='00' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntphuongthao">
 <br/>
 <br/>
 
