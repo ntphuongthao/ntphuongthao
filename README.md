@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 
 - 🤔 Enthusiastically engaging in `Competitive Programming`
 
-- 💬 Ask me about anything you want to know more about me
+- 💬 With no prior coding experience before 2021, I became immersed in the world of programming and strived to improve myself every day. As a girl in tech, I am proud of who I am.
 
 <br/>
 <br/>
