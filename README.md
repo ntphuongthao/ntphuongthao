@@ -9,15 +9,15 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 Introduction
 
-- 🙋‍♂️ Currently an undergraduate at `DePauw University`
+- 🙋‍♂️ Currently an rising junior at `DePauw University`
 
 - 🔭 Interested and working towards a `Software Engineer` career
 
-- 🌱 Currently learning `MERN Stack` and implementing `WebDev Projects`
+- 🌱 Currently learning `MERN Stack` and other web technologies to implement `WebDev Projects`
 
 - 🤔 Enthusiastically engaging in `Competitive Programming`
 
-- 💬 With no prior coding experience before 2021, I become immersed in the world of programming and strive to improve myself every day. As a girl in tech, I am proud of who I am.
+- 💬 With no prior coding experience before 2021, I become immersed in the world of programming and strive to improve myself every day. I'm proud of being `a girl in tech`
 
 <br/>
 <br/>
